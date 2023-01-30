@@ -13,7 +13,7 @@
             android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".AddActivity"
-            android:label="Add Book"
+            android:label="Add Student"
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".MainActivity"
